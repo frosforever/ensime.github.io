@@ -149,7 +149,7 @@ Note that ensime overrides many of these settings in `ensime-company-enable` so 
 
 ### Snippets
 
-[Yet Another Snippet (YAS)](http://capitaomorte.github.io/yasnippet/) provides a wide range of snippets for various languages.
+[Yet Another Snippet (YAS)](https://joaotavora.github.io/yasnippet/) provides a wide range of snippets for various languages.
 
 ```elisp
 (use-package yasnippet
