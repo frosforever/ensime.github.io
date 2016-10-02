@@ -98,7 +98,7 @@ client = e.clientOfEditor(atom.workspace.getActiveTextEditor())
 - [Atom Flight Manual](https://atom.io/docs) - see Chapter 3, _Hacking Atom_ in particular.
 - [ENSIME project source](https://github.com/ensime/)
 - [Swank Protocol source](https://github.com/ensime/ensime-server/blob/2.0/protocol-swanky/src/main/scala/org/ensime/server/protocol/swank/SwankFormats.scala)
-- [Jerk Formats](https://github.com/ensime/ensime-server/blob/master/protocol-jerky/src/test/scala/org/ensime/jerk/JerkFormatsSpec.scala)
+- [Jerk Formats](https://github.com/ensime/ensime-server/blob/2.0/protocol-jerky/src/main/scala/org/ensime/jerky/JerkyFormats.scala)
 - [Emacs command cheat sheet](editors/emacs/cheat_sheet/)
 - [ENSIME Google Group](https://groups.google.com/forum/#!forum/ensime)
 - [Startup of server from Emacs](https://github.com/ensime/ensime-emacs/blob/master/ensime-startup.el)
